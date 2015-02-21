@@ -5,7 +5,11 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.embebidos.sistemas.proyectoembebidosii"
+=======
+        applicationId "com.energeticos.sonne.proyectoembebidosii"
+>>>>>>> 9619526169b2a6bd703c12e4f4c0b9d3d463ebdd
         minSdkVersion 15
         targetSdkVersion 21
         versionCode 1

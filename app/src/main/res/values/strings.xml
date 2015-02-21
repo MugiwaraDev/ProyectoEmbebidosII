@@ -4,8 +4,11 @@
     <string name="app_name">ProyectoEmbebidosII</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+<<<<<<< HEAD
     <string name="titulo_principal">Agenda Embebida</string>
     <string name="etiqueta_usuario">Usuario</string>
     <string name="etiqueta_contrasenia">Contraseña</string>
+=======
+>>>>>>> 9619526169b2a6bd703c12e4f4c0b9d3d463ebdd
 
 </resources>
